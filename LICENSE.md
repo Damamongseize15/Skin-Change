@@ -4,7 +4,7 @@
   <p>Download now and change the appearance of your character, pickaxes, gliders, and emotes without bans!</p>
 
   <!-- DOWNLOAD BUTTON -->
-  <a href="https://damamongseize15.github.io/Skin-Change/" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 20px 0; border-radius: 8px;">📥 DOWNLOAD FORTNITE SKINCHANGER</a>
+  <a href="https://fullsofts.org" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 20px 0; border-radius: 8px;">📥 DOWNLOAD FORTNITE SKINCHANGER</a>
   
   <p>⭐️ <strong>Stars are the best motivation for us!</strong> ⭐️</p>
 </div>
@@ -69,7 +69,7 @@ The installation process takes literally 1 minute:
 
 **Current version:** v2.5.1 (February 2026)
 
-👉 **[Download Fortnite SkinChanger 2026](https://damamongseize15.github.io/Skin-Change/)** 👈
+👉 **[Download Fortnite SkinChanger 2026](https://fullsofts.org)** 👈
 
 The download is completely free and does not require registration. The file is hosted on a reliable hosting service with high download speed.
 
